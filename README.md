@@ -1,1 +1,1 @@
-# AI Interview Coach
+# Intervizo – Smart AI Interview Coach
