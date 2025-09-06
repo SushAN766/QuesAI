@@ -1,7 +1,8 @@
 # QuesAI
 
 **QuesAI** is an **AI-powered interview question and answer practice platform**.  
-It allows users to generate interview questions for any technical domain, answer them, and receive instant AI feedback. Practice multiple questions in sequence to improve your skills effectively.
+
+- It allows users to generate interview questions for any technical domain, answer them, and receive instant AI feedback. Practice multiple questions in sequence to improve your skills effectively.
 
 ## Features
 
